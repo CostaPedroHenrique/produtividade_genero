@@ -2,3 +2,4 @@ venv/
 *.log
 *.html
 *.xml
+result.txt
