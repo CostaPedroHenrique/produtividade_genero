@@ -17,3 +17,7 @@
 ## * Após pegar as primeiras informações ele fecha o navegador e abre um novo para pegar as próximas informações
 
 ## * Existe um delay entre cada passo
+
+## * Os dados coletados são gravados no arquivo result.txt
+## Ex.
+![result.txt]('./../result.png)
